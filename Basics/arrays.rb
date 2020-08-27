@@ -29,14 +29,13 @@ puts friends.include? "Bruce Wayne"
 puts friends.include? "Master Yoda"
 
 puts friends.reverse()
-puts "\n"
 puts foes.sort()
-puts "\n"
 
 foes[6] = "Winter Soldier"
 puts foes
 puts "\n"
 friends.push(foes.pop())
+puts "\nFriends: "
 puts friends
-puts "\n"
+puts " \nFoes: "
 puts foes
