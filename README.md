@@ -39,4 +39,3 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 14. Building a more powerful Calculator: better_calculator.rb
 15. Case Expressions: case_expressions.rb
 16. While Loops: while_loops.rb
-15. 
