@@ -21,7 +21,8 @@ puts foes
 
 foes[2] = "King Pin"
 foes[3] = "Red Skull"
-foes[4] = "Lex Luthor"
+foes[4] = "Jabba the Hutt"
+foes[5] = "Lex Luthor"
 
 puts ("I have " + friends.length().to_s + " allies!")
 puts friends.include? "Bruce Wayne"
