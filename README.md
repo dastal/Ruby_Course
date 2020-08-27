@@ -20,3 +20,23 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 (File -> Settings-> Install, enter:) 
 - atom-runner
 - platformio-ide-terminal
+
+
+** Topics: File**
+1. Hello World: hello_world.rb
+2. Drawing a very simple Shape: printing_simple_triangle.rb
+3. Variables: ruby_variables.rb
+4. Data Types: basic_data_types.rb
+5. Working with Strings: working_with_strings.rb
+6. Math & Numbers: working_with_numbers.rb
+7. Getting User Input: getting_user_input.rb
+8. Building a basic Calculator: very_basic_calculator.rb
+9. Building a Mad Libs Game: mad_libs_game.rb
+10. Arrays: arrays.rb
+11. Hashes: hashes.rb
+12. Return Statement: return_statement.rb
+13. If Statements: if_statements_part_I.rb and if_statements_part_II.rb
+14. Building a more powerful Calculator: better_calculator.rb
+15. Case Expressions: case_expressions.rb
+16. While Loops: while_loops.rb
+15. 
