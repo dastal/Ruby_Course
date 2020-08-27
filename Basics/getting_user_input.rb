@@ -12,4 +12,4 @@ name = gets.chomp()
 puts ("Hello " + name + ", you are amazing!")
 puts "Enter your age: "
 age = gets.chomp()
-puts ("Hello " + name + ", you are " + age + ".")
+puts ("Hello " + name + ", you are " + age + "!")
