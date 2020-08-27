@@ -12,6 +12,8 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 - Text Editor: https://atom.io/
 - Restart the computer to make sure all new setting work afterwards
 - Run files with this shortcut (Windows): alt + r
+- Run the files in terminal unsing:
+`ruby filename.rb`
 
 **Packages**
 
