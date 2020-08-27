@@ -22,7 +22,7 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 - platformio-ide-terminal
 
 
-**Topics: File**
+**Topics: Filename**
 1. Hello World: hello_world.rb
 2. Drawing a very simple Shape: printing_simple_triangle.rb
 3. Variables: ruby_variables.rb
