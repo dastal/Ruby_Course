@@ -15,6 +15,7 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 - Run the files in terminal unsing:
 `ruby filename.rb`
 - Ruby documentation for more information: https://ruby-doc.org/
+- Every file with an input function requires to be run with the terminal
 
 **Packages**
 
