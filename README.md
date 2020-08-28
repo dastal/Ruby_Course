@@ -14,6 +14,7 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 - Run files with this shortcut (Windows): alt + r
 - Run the files in terminal unsing:
 `ruby filename.rb`
+- Ruby documentation for more information: https://ruby-doc.org/
 
 **Packages**
 
@@ -39,3 +40,5 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 14. Building a more powerful Calculator: better_calculator.rb
 15. Case Expressions: case_expressions.rb
 16. While Loops: while_loops.rb
+17. Guessing Game: guessing_game.rb
+18. For Loops: for_loops.rb
