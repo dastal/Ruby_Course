@@ -43,3 +43,27 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 16. While Loops: while_loops.rb
 17. Guessing Game: guessing_game.rb
 18. For Loops: for_loops.rb
+19. Exponent Method: exponent_method.rb
+20. Comments: comments.rb
+21. Reading Files: reading_files.rb
+22. Writing Files: writing_files.rb
+23: Handling Errors: error_handling.rb
+24. Classes and Objects: classes_object.rb
+25. Initialize Method: initialize_method.rb
+26. Object Methods: object_methods.rb
+27. Inheritance: inheritance.rb
+28. Mudules: modules.rb
+
+**Interactive Ruby**
+- Suitable for checking functionalities
+- First, check `irb -v` in command line
+- Enter `irb` to start interactive ruby
+- prgram ruby like in text editor
+
+**Conclusion**
+- First impression: similar like python
+- Very interesting types of for-loops
+- puts and gets are really useful funcitons for I/O
+- Hashes: weird dictionaries...
+- everything is an object
+. Interactive Ruby is a huge plus
