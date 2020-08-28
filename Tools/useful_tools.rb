@@ -12,5 +12,5 @@ module Tools
 end
 
 include Tools
-Tools.sayhi("Dave")
-Tools.saybye("Dave")
+#Tools.sayhi("Dave")
+#Tools.saybye("Dave")
