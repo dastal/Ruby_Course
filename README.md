@@ -61,7 +61,7 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 - prgram ruby like in text editor
 
 **Conclusion**
-- First impression: similar like python
+- First impression: similar to python
 - Very interesting types of for-loops
 - puts and gets are really useful funcitons for I/O
 - Hashes: weird dictionaries...
