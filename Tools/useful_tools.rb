@@ -2,11 +2,15 @@
 module Tools
 
   def sayhi(name)
-    puts "hello #{name}"
+    puts "Hello #{name}!"
   end
 
   def saybye(name)
-    puts "bye #{name}"
+    puts "Bye #{name}!"
   end
 
 end
+
+include Tools
+Tools.sayhi("Dave")
+Tools.saybye("Dave")
