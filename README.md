@@ -66,4 +66,4 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 - puts and gets are really useful funcitons for I/O
 - Hashes: weird dictionaries...
 - everything is an object
-. Interactive Ruby is a huge plus
+- Interactive Ruby is a huge plus
