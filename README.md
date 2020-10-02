@@ -3,7 +3,7 @@
 
 Tutorial I completed to get used to Ruby programming language. (Used tutorial: https://www.youtube.com/watch?v=t_ispmWmdjY)
 
-**Installation**
+## Installation
 
 - Ruby Installer: https://rubyinstaller.org/downloads/ -> x64 Version
 - After installing in the "Completing the Ruby x.x.x-x-x64 Setup Wizard" make sure the "Run 'ridk install' to install MSYS2 and development toolchain. MSYS2 is required to install gems with C extensions." checkbox is activated!
@@ -17,14 +17,14 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 - Ruby documentation for more information: https://ruby-doc.org/
 - Every file with an input function requires to be run with the terminal
 
-**Packages**
+## Packages
 
 (File -> Settings-> Install, enter:) 
 - atom-runner
 - platformio-ide-terminal
 
 
-**Topics: Filename**
+## Topics
 1. Hello World: hello_world.rb
 2. Drawing a very simple Shape: printing_simple_triangle.rb
 3. Variables: ruby_variables.rb
@@ -54,13 +54,13 @@ Tutorial I completed to get used to Ruby programming language. (Used tutorial: h
 27. Inheritance: inheritance.rb
 28. Mudules: modules.rb
 
-**Interactive Ruby**
+## Interactive Ruby
 - Suitable for checking functionalities
 - First, check `irb -v` in command line
 - Enter `irb` to start interactive ruby
 - prgram ruby like in text editor
 
-**Conclusion**
+## Conclusion
 - First impression: similar to python
 - Very interesting types of for-loops
 - puts and gets are really useful funcitons for I/O
